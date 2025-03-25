@@ -64,6 +64,8 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="30" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Palo%20Alto-0086C9?style=for-the-badge&logo=paloalto-networks&logoColor=white" height="30" />
 </div>
 
 ###
@@ -78,8 +80,6 @@
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Palo%20Alto-0086C9?style=for-the-badge&logo=paloalto-networks&logoColor=white" height="30" />
 </div>
 
 ###
